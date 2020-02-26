@@ -1,0 +1,1 @@
+export const api_url = 'https://us-central1-mini-kanban-api-ciaf.cloudfunctions.net/api';
